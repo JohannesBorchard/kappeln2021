@@ -11,7 +11,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
-  --bs-blue: #2664B3;
+  --bs-blue: #004279;
   --bs-indigo: #6610f2;
   --bs-purple: #9f1ae2;
   --bs-pink: #d63384;
@@ -33,7 +33,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #2664B3;
+  --bs-primary: #004279;
   --bs-secondary: #9f1ae2;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -3025,13 +3025,13 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #2664B3;
-  border-color: #2664B3;
+  background-color: #4E7D89;
+  border-color: #4E7D89;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #1C4B87;
-  border-color: #1C4B87;
+  background-color: #2F4C53;
+  border-color: #2F4C53;
 }
 /* .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -3264,8 +3264,8 @@ textarea.form-control-lg {
 }
 
 .btn-outline-primary {
-  color: #2664B3;
-  border-color: #2664B3;
+  color: #004279;
+  border-color: #004279;
 }
 .btn-outline-primary:hover {
   color: #fff;
@@ -11283,7 +11283,7 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: linear-gradient(135deg, #2664B3, #1C4B87) !important;
+  background: linear-gradient(135deg, #004279, #4E7D89) !important;
 }
 
 .font-alt {

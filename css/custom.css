@@ -8,15 +8,29 @@
       rgba(0, 0, 0, .5) 100%
     ),
     url('https://unsplash.com/photos/MQrj2QeHYAg/download?force=true');
-  /* background: url('https://unsplash.com/photos/MQrj2QeHYAg/download?force=true'); */
   background-repeat: no-repeat;
   background-position: center;
-  background-size:cover;
   background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
 }
+
+/* @media screen and (max-device-width: 1024px){
+
+  .bgimage {
+    background-position: none !important;
+    display: table;
+    position: relative;
+  }
+} */
+
+
+
 .bgimage h1 {
   color:white;
   text-shadow: 2px 3px 5px rgba(0,0,0,0.1);
