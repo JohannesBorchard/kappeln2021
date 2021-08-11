@@ -488,7 +488,7 @@ progress {
 }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   font-weight: 300;
 }
 
@@ -7764,7 +7764,7 @@ textarea.form-control-lg {
 
 .text-muted {
   --bs-text-opacity: 1;
-  color: #444 !important;
+  color: #4d677e !important;
 }
 
 .text-black-50 {
