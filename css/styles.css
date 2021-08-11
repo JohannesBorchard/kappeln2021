@@ -3029,13 +3029,13 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #4E7D89;
-  border-color: #4E7D89;
+  background-color: #004279;
+  border-color: #004279;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #2F4C53;
-  border-color: #2F4C53;
+  background-color: #001b31;
+  border-color: #001b31;
 }
 /* .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -3059,13 +3059,13 @@ textarea.form-control-lg {
 
 .btn-secondary {
   color: #fff;
-  background-color: #9f1ae2;
-  border-color: #9f1ae2;
+  background-color: #4E7D89;
+  border-color: #4E7D89;
 }
 .btn-secondary:hover {
   color: #fff;
-  background-color: #8716c0;
-  border-color: #7f15b5;
+  background-color: #2F4C53;
+  border-color: #2F4C53;
 }
 /* .btn-check:focus + .btn-secondary, .btn-secondary:focus {
   color: #fff;
@@ -3208,29 +3208,28 @@ textarea.form-control-lg {
 }
 
 .btn-light {
-  color: #000;
-  background-color: #f8f9fa;
-  border-color: #f8f9fa;
+  color: #002646;
+  background-color: #fff;
+  border-color: #fff;
 }
 .btn-light:hover {
-  color: #000;
-  background-color: #f9fafb;
-  border-color: #f9fafb;
+  color: #fff;
+  background-color: #8093a3;
+  border-color: #8093a3;
 }
 .btn-check:focus + .btn-light, .btn-light:focus {
   color: #000;
   background-color: #f9fafb;
   border-color: #f9fafb;
-  box-shadow: 0 0 0 0.25rem rgba(211, 212, 213, 0.5);
 }
 .btn-check:checked + .btn-light, .btn-check:active + .btn-light, .btn-light:active, .btn-light.active, .show > .btn-light.dropdown-toggle {
   color: #000;
   background-color: #f9fafb;
   border-color: #f9fafb;
 }
-.btn-check:checked + .btn-light:focus, .btn-check:active + .btn-light:focus, .btn-light:active:focus, .btn-light.active:focus, .show > .btn-light.dropdown-toggle:focus {
+/* .btn-check:checked + .btn-light:focus, .btn-check:active + .btn-light:focus, .btn-light:active:focus, .btn-light.active:focus, .show > .btn-light.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.25rem rgba(211, 212, 213, 0.5);
-}
+} */
 .btn-light:disabled, .btn-light.disabled {
   color: #000;
   background-color: #f8f9fa;
