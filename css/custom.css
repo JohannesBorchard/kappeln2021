@@ -30,6 +30,29 @@
   }
 } */
 
+.bgimage--events {
+  width:100%;
+  height:700px;
+  background:
+    linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0) 60%,
+      rgba(0, 0, 0, .5) 100%
+    ),
+    url('https://www.amrum-news.de/wp-content/uploads/2021/07/IMG_0525.jpg');
+
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-attachment: fixed; */
+    background-attachment: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
 
 .bgimage h1 {
