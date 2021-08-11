@@ -10,7 +10,8 @@
     url('https://unsplash.com/photos/MQrj2QeHYAg/download?force=true');
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
+  background-attachment: relative;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
