@@ -45,7 +45,7 @@
       rgba(0, 0, 0, 0) 60%,
       rgba(0, 0, 0, .5) 100%
     ),
-    url('../assets/img/rad2.jpg');
+    url('../assets/img/hüfte.jpg');
 }
 
 .bgimage--ziele {
@@ -55,7 +55,7 @@
       rgba(0, 0, 0, 0) 60%,
       rgba(0, 0, 0, .5) 100%
     ),
-    url('../assets/img/hüfte.jpg');
+    url('../assets/img/city.jpeg');
 }
 
 /* @media screen and (max-device-width: 1024px){
@@ -76,7 +76,7 @@
       rgba(0, 0, 0, 0) 60%,
       rgba(0, 0, 0, .5) 100%
     ),
-    url('https://www.amrum-news.de/wp-content/uploads/2021/07/IMG_0525.jpg');
+    url('../assets/img/rad2.jpg');
 }
 
 

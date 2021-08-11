@@ -11399,8 +11399,8 @@ section {
 section.cta {
   position: relative;
   padding: 15rem 0;
-  background-image: url("https://www.amrum-news.de/wp-content/uploads/2021/07/IMG_0525.jpg");
-  background-position: center;
+  background-image: url("../assets/img/rad2.jpg");
+  background-position: top;
   background-size: cover;
 }
 section.cta .cta-content {
