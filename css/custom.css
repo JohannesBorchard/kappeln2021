@@ -6,6 +6,29 @@
   max-width: 1920px;
   height: 90vh;
   /* max-height: 1400px; */
+  /* background:
+    linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0) 60%,
+      rgba(0, 0, 0, .5) 100%
+    ),
+    url('../assets/img/main2.jpg'); */
+    margin-top: 60px;
+  background-repeat: no-repeat !important;
+  background-position: top !important;
+  /* background-attachment: fixed; */
+  background-attachment: relative !important;
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  -o-background-size: cover !important;
+  background-size: cover !important;
+  padding-bottom: 10px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-end !important;
+}
+
+.bgimage--home {
   background:
     linear-gradient(
       to bottom,
@@ -13,19 +36,26 @@
       rgba(0, 0, 0, .5) 100%
     ),
     url('../assets/img/main2.jpg');
-    margin-top: 60px;
-  background-repeat: no-repeat;
-  background-position: top;
-  /* background-attachment: fixed; */
-  background-attachment: relative;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  padding-bottom: 10px;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
+}
+
+.bgimage--about {
+  background:
+    linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0) 60%,
+      rgba(0, 0, 0, .5) 100%
+    ),
+    url('../assets/img/rad2.jpg');
+}
+
+.bgimage--ziele {
+  background:
+    linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0) 60%,
+      rgba(0, 0, 0, .5) 100%
+    ),
+    url('../assets/img/hüfte.jpg');
 }
 
 /* @media screen and (max-device-width: 1024px){
@@ -47,18 +77,6 @@
       rgba(0, 0, 0, .5) 100%
     ),
     url('https://www.amrum-news.de/wp-content/uploads/2021/07/IMG_0525.jpg');
-
-    background-repeat: no-repeat;
-    background-position: center;
-    /* background-attachment: fixed; */
-    background-attachment: relative;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
 }
 
 
