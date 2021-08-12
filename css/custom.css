@@ -1,3 +1,5 @@
+html,body{overflow-x: hidden;}
+
 .bgimage {
   /* width:100%; */
   margin-left: auto;
@@ -68,7 +70,7 @@
 } */
 
 .bgimage--events {
-  
+
   background:
     linear-gradient(
       to bottom,
