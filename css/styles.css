@@ -4930,9 +4930,10 @@ textarea.form-control-lg {
 }
 
 .alert-primary {
-  color: #192190;
-  background-color: #d4d7fc;
-  border-color: #bfc3fb;
+  color: #004279;
+  background-color: #BFD0DE;
+  border-color: #80A1BC;
+  max-width: 350px;
 }
 .alert-primary .alert-link {
   color: #141a73;
